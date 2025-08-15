@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://github.com/ranyong1997">
+  <a href="https://github.com/RanY-Luck">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=春暖花开，百事可乐.;console.log(%22Hello%EF%BC%8CRanyong%22)">  
   </a>
 </h1>
@@ -10,13 +10,13 @@
 
 ### 😆 主页浏览量
 <div align="center">
-<img src='https://count.getloli.com/get/@ranyong1997.github.readme'>
+<img src='https://count.getloli.com/get/@RanY-Luck.github.readme'>
 <!-- 贪吃蛇代码贡献图 -->
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranyong1997/ranyong1997/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranyong1997/ranyong1997/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ranyong1997/ranyong1997/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanY-Luck/RanY-Luck/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanY-Luck/RanY-Luck/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RanY-Luck/RanY-Luck/output/github-contribution-grid-snake.svg">
 <!-- 产品分析图 -->
-<img src="https://raw.githubusercontent.com/ranyong1997/image_collect/main/img/20211115230555.png" />
+<img src="https://raw.githubusercontent.com/RanY-Luck/image_collect/main/img/20211115230555.png" />
 </div>
 
 ### 🙋 Hello
@@ -33,8 +33,8 @@
 
 |  项目名字 | 介绍 |
 |  :----:  | :----:  |
-| Sakura_K | [Sakura_K](https://github.com/ranyong1997/Sakura_K) |
-| ruoyi_sakura_k_admin | [ruoyi_sakura_k_admin](https://github.com/ranyong1997/ruoyi_sakura_k_admin) |
+| Sakura_K | [Sakura_K](https://github.com/RanY-Luck/Sakura_K) |
+| ruoyi_sakura_k_admin | [ruoyi_sakura_k_admin](https://github.com/RanY-Luck/ruoyi_sakura_k_admin) |
 
 ### 🧐本人使用过的语言
 
@@ -83,27 +83,27 @@
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>
 <a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E5%AE%A2-0084FF?style=for-the-badge&logo=Juejin&logoColor=0084FF&labelColor=ffffff"/></a>	
 </p>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171438831.jpg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/RanY-Luck/image_collect@main/img/202211171438831.jpg" /></div>
 
 # 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171422976.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranyong1997&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/ranyong1997/image_collect@main/img/202211171422977.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/RanY-Luck/image_collect@main/img/202211171422976.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RanY-Luck&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/RanY-Luck/image_collect@main/img/202211171422977.png" />
 </p>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=ranyong1997&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+	<img  src="https://github-profile-trophy.vercel.app/?username=RanY-Luck&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ranyong1997&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyong1997&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RanY-Luck&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanY-Luck&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
